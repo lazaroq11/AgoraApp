@@ -19,7 +19,7 @@ O Storyboard visa mostrar um cenário de utilização do app, na cena um profess
 
 ## Aplicações Correlatas
 
-Existem algumas aplicações com funcionalidades similares as do Agora APP. 
+Existem algumas aplicações com funcionalidades similares as do AgoraApp. 
 
 ### TapaTalk : +10 Milhões de Downloads 
 
