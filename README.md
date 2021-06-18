@@ -17,10 +17,22 @@ O Storyboard visa mostrar um cenário de utilização do app, na cena um profess
 ![Storyboard parte 3](Storyboard/imgs/storyboardpt3.jpg)
 
 
+## Aplicações Correlatas
+
+Existem algumas aplicações com funcionalidades similares as do Agora APP. 
+
+### TapaTalk : +10 Milhões de Downloads 
+
+![Tapatalk](AplicacoesCorrelatas/tapatalk.png)
+
+### IQ2US Debates : 10.000+ de Downloads
+
+![IQ2US](AplicacoesCorrelatas/iq2us.png)
+
 ## Mapa Conceitual
 
 O mapa conceitual do Agora, visa mostrar o escopo do nosso projeto, é a segunda etapa pré-protótipos.
-
+  
 ![Mapa Conceitual](MapaConceitual/../Mapa%20Conceitual/Conceitual%20Map.png)
 
 
