@@ -5,13 +5,25 @@ Com o modo Agora, o usuário abre um debate e recebe diversas opiniões e inform
 
 Já com o modo Confronto, ele se coloca diante de opiniões diversas sobre o seu assunto com pessoas que concordem ou não com aquilo que foi escrito. Tendo como objetivo mudar perspectivas e dar uma nova visão sobre qualquer tema.
 
-## Storyboard
 
-<img src = "/docs/logo.png" alt = "Storyboard">
+## Storyboard 
 
-Link para preview do protótipo de Alta Fidelidade do App: https://www.fluidui.com/editor/live/preview/cF9jRXpuOFNKWE5SdklRaVJpTTkzbHJsZEJEWEVOVDNQNQ==
+![Storyboard parte 1](Storyboard/imgs/storyboardpt1.jpg)
 
-Obs: Na tela de login a primeira interação deve ser cadastre-se.
+![Storyboard parte 2](Storyboard/imgs/storyboardpt2.jpg)
+
+![Storyboard parte 3](Storyboard/imgs/storyboardpt3.jpg)
 
 
-Autores: Lázaro Queiroz, João Victor Fontes e Victor Pereira.
+## Mapa Conceitual
+
+![Logo do Markdown](MapaConceitual/../Mapa%20Conceitual/Conceitual%20Map.png)
+
+
+## Protótipo de Baixa Fidelidade
+
+![Logo do Markdown](Protótipo%20Baixa%20Fidelidade/imgs/AgoraBaixaFidelidade.PNG)
+
+
+
+
