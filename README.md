@@ -49,7 +49,7 @@ O mapa conceitual do Agora, visa mostrar o escopo do nosso projeto, é a segunda
 
 ### Criar Debate
 
-![Protótipo de Alta Fidelidade](PrototipoAltaFidelidade/imgs/Createdebate.PNG)
+![Protótipo de Alta Fidelidade](PrototipoAltaFidelidade/imgs/CreateDebate.PNG)
 
 ### Modo Agora
 
