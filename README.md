@@ -25,7 +25,7 @@ Existem algumas aplicações com funcionalidades similares as do Agora APP.
 
 ![Tapatalk](AplicacoesCorrelatas/tapatalk.png)
 
-### IQ2US Debates : 10.000+ de Downloads
+### IQ2US Debates : +10.000 de Downloads
 
 ![IQ2US](AplicacoesCorrelatas/iq2us.png)
 
