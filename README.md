@@ -33,7 +33,7 @@ O mapa conceitual do Agora, visa mostrar o escopo do nosso projeto, é a segunda
 
 ### Login
 
-![Protótipo de Alta Fidelidade](PrototipoAltaFidelidade/imgs/Login.png)
+![Protótipo de Alta Fidelidade](PrototipoAltaFidelidade/imgs/Login.PNG)
 
 ### Cadastro
 
