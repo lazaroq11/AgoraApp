@@ -64,5 +64,14 @@ O mapa conceitual do Agora, visa mostrar o escopo do nosso projeto, é a segunda
 ![Protótipo de Alta Fidelidade](PrototipoAltaFidelidade/imgs/Mydebates.png)
 
 
+## Desenvolvido por:
+
+<p>Lázaro Queiroz da Silva<p>
+<p>João Victor Fontes<p>
+<p>Victor Pereira<p>
+
+
+
+
 
 
