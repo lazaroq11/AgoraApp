@@ -41,7 +41,7 @@ O mapa conceitual do Agora, visa mostrar o escopo do nosso projeto, é a segunda
 
 ### Interesses
 
-![Protótipo de Alta Fidelidade](PrototipoAltaFidelidade/imgs/interesses.PNG)
+![Protótipo de Alta Fidelidade](PrototipoAltaFidelidade/imgs/Interesses.PNG)
 
 ### Home
 
