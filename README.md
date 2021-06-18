@@ -31,21 +31,21 @@ Existem algumas aplicações com funcionalidades similares as do AgoraApp.
 
 ## Mapa Conceitual
 
-O mapa conceitual do Agora, visa mostrar o escopo do nosso projeto, é a segunda etapa pré-protótipos.
+O mapa conceitual do Agora, visa mostrar o escopo do nosso projeto, é a segunda e última etapa pré-protótipos.
   
 ![Mapa Conceitual](MapaConceitual/../Mapa%20Conceitual/Conceitual%20Map.png)
 
 
 ## Protótipo de Baixa Fidelidade
 
-O Protótipo de Baixa Fidelidade representa uma primeira prototipagem do nosso APP, nesse caso procuramos expor visualmente as funcionalidades sem nenhuma interação nem fluxo de navegação. Foi muito importante pois nos permitiu ter uma noção exata de como o aplicativo iria ser moldado.
+O Protótipo de Baixa Fidelidade representa uma primeira prototipagem do nosso App, nesse caso procuramos expor visualmente as funcionalidades sem nenhuma interação nem fluxo de navegação. Foi muito importante pois nos permitiu ter uma noção exata de como o aplicativo iria ser moldado.
 
 ![Protótipo de Baixa Fidelidade](PrototipoBaixaFidelidade/imgs/AgoraBaixaFidelidade.PNG)
 
 
 ## Protótipo de Alta Fidelidade
 
-O Protótipo de Alta Fidelidade representa as telas do APP, dessa vez já ocorre um fluxo de navegação e de fato é a imagem do nosso APP final. Para a construção da interface nos apoiamos no material do Material Design que oferece uma série de padrões de desenvolvimento de telas.
+O Protótipo de Alta Fidelidade representa as telas do app, dessa vez já ocorre um fluxo de navegação e de fato é a imagem final do Agora. Para a construção da interface nos apoiamos no material do Material Design que oferece uma série de padrões de desenvolvimento de telas.
 
 ### Login
 
