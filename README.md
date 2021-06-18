@@ -1,4 +1,4 @@
-# Agora App
+# AgoraApp
 O Agora App é o aplicativo que têm como objetivo fomentar discussões e debates.
 
 Com o modo Agora, o usuário abre um debate e recebe diversas opiniões e informações que o enriqueçam de forma a expandir e aumentar o conhecimento sobre aquele assunto.
