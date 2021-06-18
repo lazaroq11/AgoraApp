@@ -8,7 +8,7 @@ Já com o modo Confronto, ele se coloca diante de opiniões diversas sobre o seu
 
 ## Storyboard 
 
-O Storyboard visa mostrar um cenário de utilização do app, na cena um professor que necessita aprofundar seu conhecimento sobre um tema e pra isso precisa de mais opiniões. Ele então encontra o Agora App com o seu modo Agora. 
+O Storyboard visa mostrar um cenário de utilização do app, na cena um professor que necessita aprofundar seu conhecimento sobre um tema e pra isso precisa de mais opiniões. Ele então encontra o AgoraApp com o seu modo Agora. 
 
 ![Storyboard parte 1](Storyboard/imgs/storyboardpt1.jpg)
 
