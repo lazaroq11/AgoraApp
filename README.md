@@ -8,6 +8,8 @@ Já com o modo Confronto, ele se coloca diante de opiniões diversas sobre o seu
 
 ## Storyboard 
 
+O Storyboard visa mostrar um cenário de utilização do app, na cena um professor que necessita aprofundar seu conhecimento sobre um tema e pra isso precisa de mais opiniões. Ele então encontra o Agora App com o seu modo Agora. 
+
 ![Storyboard parte 1](Storyboard/imgs/storyboardpt1.jpg)
 
 ![Storyboard parte 2](Storyboard/imgs/storyboardpt2.jpg)
@@ -17,12 +19,49 @@ Já com o modo Confronto, ele se coloca diante de opiniões diversas sobre o seu
 
 ## Mapa Conceitual
 
-![Logo do Markdown](MapaConceitual/../Mapa%20Conceitual/Conceitual%20Map.png)
+O mapa conceitual do Agora, visa mostrar o escopo do nosso projeto, é a segunda etapa pré-protótipos.
+
+![Mapa Conceitual](MapaConceitual/../Mapa%20Conceitual/Conceitual%20Map.png)
 
 
 ## Protótipo de Baixa Fidelidade
 
-![Logo do Markdown](Protótipo%20Baixa%20Fidelidade/imgs/AgoraBaixaFidelidade.PNG)
+![Protótipo de Baixa Fidelidade](PrototipoBaixaFidelidade/imgs/AgoraBaixaFidelidade.png)
+
+
+## Protótipo de Alta Fidelidade
+
+### Login
+
+![Protótipo de Alta Fidelidade](PrototipoAltaFidelidade/imgs/Login.png)
+
+### Cadastro
+
+![Protótipo de Alta Fidelidade](PrototipoAltaFidelidade/imgs/Cadastro.png)
+
+### Interesses
+
+![Protótipo de Alta Fidelidade](PrototipoAltaFidelidade/imgs/interesses.png)
+
+### Home
+
+![Protótipo de Alta Fidelidade](PrototipoAltaFidelidade/imgs/Home.png)
+
+### Criar Debate
+
+![Protótipo de Alta Fidelidade](PrototipoAltaFidelidade/imgs/Createdebate.png)
+
+### Modo Agora
+
+![Protótipo de Alta Fidelidade](PrototipoAltaFidelidade/imgs/AgoraMode.png)
+
+### Modo Confronto
+
+![Protótipo de Alta Fidelidade](PrototipoAltaFidelidade/imgs/ConfrontationMode.png)
+
+### Meus debates
+
+![Protótipo de Alta Fidelidade](PrototipoAltaFidelidade/imgs/Mydebates.png)
 
 
 
