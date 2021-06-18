@@ -26,7 +26,7 @@ O mapa conceitual do Agora, visa mostrar o escopo do nosso projeto, é a segunda
 
 ## Protótipo de Baixa Fidelidade
 
-![Protótipo de Baixa Fidelidade](PrototipoBaixaFidelidade/imgs/AgoraBaixaFidelidade.png)
+![Protótipo de Baixa Fidelidade](PrototipoBaixaFidelidade/imgs/AgoraBaixaFidelidade.PNG)
 
 
 ## Protótipo de Alta Fidelidade
@@ -37,31 +37,31 @@ O mapa conceitual do Agora, visa mostrar o escopo do nosso projeto, é a segunda
 
 ### Cadastro
 
-![Protótipo de Alta Fidelidade](PrototipoAltaFidelidade/imgs/Cadastro.png)
+![Protótipo de Alta Fidelidade](PrototipoAltaFidelidade/imgs/Cadastro.PNG)
 
 ### Interesses
 
-![Protótipo de Alta Fidelidade](PrototipoAltaFidelidade/imgs/interesses.png)
+![Protótipo de Alta Fidelidade](PrototipoAltaFidelidade/imgs/interesses.PNG)
 
 ### Home
 
-![Protótipo de Alta Fidelidade](PrototipoAltaFidelidade/imgs/Home.png)
+![Protótipo de Alta Fidelidade](PrototipoAltaFidelidade/imgs/Home.PNG)
 
 ### Criar Debate
 
-![Protótipo de Alta Fidelidade](PrototipoAltaFidelidade/imgs/Createdebate.png)
+![Protótipo de Alta Fidelidade](PrototipoAltaFidelidade/imgs/Createdebate.PNG)
 
 ### Modo Agora
 
-![Protótipo de Alta Fidelidade](PrototipoAltaFidelidade/imgs/AgoraMode.png)
+![Protótipo de Alta Fidelidade](PrototipoAltaFidelidade/imgs/AgoraMode.PNG)
 
 ### Modo Confronto
 
-![Protótipo de Alta Fidelidade](PrototipoAltaFidelidade/imgs/ConfrontationMode.png)
+![Protótipo de Alta Fidelidade](PrototipoAltaFidelidade/imgs/ConfrontationMode.PNG)
 
 ### Meus debates
 
-![Protótipo de Alta Fidelidade](PrototipoAltaFidelidade/imgs/Mydebates.png)
+![Protótipo de Alta Fidelidade](PrototipoAltaFidelidade/imgs/Mydebates.PNG)
 
 
 ## Desenvolvido por:
